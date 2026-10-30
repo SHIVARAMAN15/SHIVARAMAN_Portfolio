@@ -1,0 +1,9 @@
+# Robots.txt for https://shivaraman-portfolio.vercel.app/
+User-agent: *
+Allow: /
+
+# Host
+Host: https://shivaraman-portfolio.vercel.app
+
+# Sitemap
+Sitemap: https://shivaraman-portfolio.vercel.app/sitemap.xml
